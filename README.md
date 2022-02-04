@@ -3,7 +3,7 @@ Lung cancer is by far the leading cause of cancer death among both men and women
 Globally Cancer has proved to be the most dangerous killer with cases ever increasing with time.
 
 
-#                                        Proposed solution.
+# Proposed solution.
 
 To build a model that can assess the length of stay that treatment procedures take in order to help hospitals channel their resources and patients plan accordingly, as well as to assess the outcome of cancer patients after discharge from the hospital following various treatment procedures using machine learning.
 
@@ -20,3 +20,11 @@ We also seek to benchmark the treatments found in poland and compare it to the i
 
 - To assess the duration of stay that treatment procedures take to help hospitals  channel their resources and patients to     plan accordingly.
 - To assess the outcome of the cancer patients after discharge from the hospital following various treatment procedures.
+
+# Collaborators
+Francis Njeri,Christine Muthee,Eliud Munyala, Barbara Juma
+# Project 
+You can clone this project from 
+
+Incase of any queries please contact me at
+xtinemuthee@gmail.com 
