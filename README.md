@@ -25,6 +25,7 @@ We also seek to benchmark the treatments found in poland and compare it to the i
 Francis Njeri,Christine Muthee,Eliud Munyala, Barbara Juma
 # Project 
 You can clone this project from 
+https://github.com/CHRISTINEMUTHEE/Lung-Cancer-.git
 
 Incase of any queries please contact me at
 xtinemuthee@gmail.com 
